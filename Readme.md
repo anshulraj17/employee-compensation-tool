@@ -139,11 +139,10 @@ streamlit run app/main.py
 
 
 
-## 📬 Submitted By:
 
-Name - Anshul Mishra
 Email - Anshulraj17@gmail.com
 
 ---
 
 >  2025 TechSolve Case Study 
+
